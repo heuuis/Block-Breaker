@@ -366,7 +366,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2207357295145016849, guid: b317de37bb6dce340b10862fa68025c0, type: 3}
       propertyPath: m_Name
-      value: GameStatus
+      value: GameSession
       objectReference: {fileID: 0}
     - target: {fileID: 2207357295145016854, guid: b317de37bb6dce340b10862fa68025c0, type: 3}
       propertyPath: gameSpeed
