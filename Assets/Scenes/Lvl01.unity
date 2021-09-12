@@ -237,6 +237,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: RedBlock
       objectReference: {fileID: 0}
+    - target: {fileID: 165598890570296140, guid: 920702e85e35dfb45badb27ece9ccf8d, type: 3}
+      propertyPath: m_TagString
+      value: Breakable
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 920702e85e35dfb45badb27ece9ccf8d, type: 3}
 --- !u!1001 &1600530498258355575

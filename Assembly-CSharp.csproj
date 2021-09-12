@@ -63,6 +63,8 @@
     <Compile Include="Assets\Scripts\Level.cs" />
     <Compile Include="Assets\Scripts\GameSession.cs" />
     <Compile Include="Assets\Scripts\LoseCollider.cs" />
+    <Compile Include="Assets\Scripts\PrefabSwitch.cs" />
+    <Compile Include="Assets\Scripts\PrefabSwitchEditor.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
