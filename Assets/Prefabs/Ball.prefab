@@ -100,7 +100,7 @@ Rigidbody2D:
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDrag: 0
-  m_AngularDrag: 0.05
+  m_AngularDrag: 0
   m_GravityScale: 1
   m_Material: {fileID: 0}
   m_Interpolate: 0
@@ -141,6 +141,8 @@ MonoBehaviour:
   ballSounds:
   - {fileID: 8300000, guid: c863c3345b374c648980e0d650b6d9ce, type: 3}
   - {fileID: 8300000, guid: 60816107d5dcd9442ac000955f70d940, type: 3}
+  randomFactor: 0.2
+  collisionSpeedIncreaseFactor: 0.1
 --- !u!82 &313534570
 AudioSource:
   m_ObjectHideFlags: 0
